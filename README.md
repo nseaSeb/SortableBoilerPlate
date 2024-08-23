@@ -1,3 +1,5 @@
+# Example of adding a sortable.js hook to the BoilerPlatePetal.
+
 # Petal Boilerplate
 
 A clean install of the Phoenix 1.7 (RC) along with:
