@@ -1,4 +1,5 @@
 # Example of adding a sortable.js hook to the BoilerPlatePetal.
+Example visible in the live components tab
 
 # Petal Boilerplate
 
